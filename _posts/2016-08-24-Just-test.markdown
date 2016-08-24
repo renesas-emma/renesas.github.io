@@ -1,10 +1,11 @@
---
+---
 layout: post
-title: just testing
+title:  "Just for test"
+date:   2016-08-24 16:42:37 +0800
+categories: Test
+---
 
-
---
-
+This is a tile with "== =="
 
 Test
 ======
@@ -19,7 +20,8 @@ Test
 THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.  THis is a very llllong line.
 
 
-##Title2##
+Title2
+--------------------
 
 Contents
 
